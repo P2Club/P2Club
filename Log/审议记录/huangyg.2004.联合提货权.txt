@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+1、使用非公共模型。
+2、提出了一种父子结构的利益共同体的群体，本资料涉
+及父利益共同体一级的分配、协作、任务（联合提货权发
+行、销毁、转账、交易、分配）。
+3、适用范围为：
+    1.
+进行长期智力协作的利益共同体。其协作过程已完成严格
+的数学建模。
+    2.
+一族利益共同体互相交易，这包括生产管理所需要的资源
+，也包括成员个人消费的资源。
+    IT界都符合，非IT界的加在一起，算现实中10%~40%。
+4、实现效果应超过适用范围内的60%。
+5、作者所在单位有内部记账单位的亲身实践，数字签名
+、数字摘要均有可运行的源代码实现。
+
+最终评级：第二级
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP Desktop 10.2.0 (Build 2599) - not licensed for commercial use: www.pgp.com
+Charset: utf-8
+
+wsBVAwUBVCq6vPb4AsDNppvZAQgnZAf+IubMaIAf82BDvO8R3NaR66D3vgLKexUw
+AjSwlreQw4W7wDhLRByb5tJQXKgbcfTYGSs6IaKpD/O6HsHxmZUVIyMfwk5fQm5W
+agz4fdxyKEOR1ovPbaQfeh0SscfyXXiVbTYPDtd5nGsh9opto1S8c2GafLCooFKs
+mHEtoIrs+7UWQU2ux7Uew8W3Wa/zI8SOqQS2Dz8ZomU1Imjse6Bl7DzvmQfNsd4k
+53tgkgaq0oYdwuCQQIAlbXeJKQb9Z93pP9aeshJowo45sHZ1geK3Uk2mthTD4Wp+
+4QhFyfun3T3mfVGV6viBs7sk8WV4OTTvR+pA/bIj6C3KtN5rPl4DWQ==
+=EXRi
+-----END PGP SIGNATURE-----

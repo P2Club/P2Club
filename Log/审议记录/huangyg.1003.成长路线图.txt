@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+审议标准：
+1、不适用，从低。==》4级。
+2、不适用，从低。==》5级。
+3、适用于现实中40%以上利益共同体的提高2级。==》3级
+4、效果暂时不明确。==》3级
+5、案例是其他人。==》4级
+
+最终结果：4级。
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP Desktop 10.2.0 (Build 2599) - not licensed for commercial use: www.pgp.com
+Charset: utf-8
+
+wsBVAwUBVK1/u/b4AsDNppvZAQiBGQgAoz0fIthXRuaWAlM87zWF2jBnXGwO6yGy
+W8CpBJecuOucNe3CA0YZM2hW2VJy9nUT8DCQ60yG2bEmZ24uXfrwQlyWNJ4RHMeI
+db2iVz+U3ZN6mLNkcAI40wkl3VMIhCKgjLq+D75tzdR+2W1JFxNuWN/hsKWPwh7Z
+g6MGYCBEJvOfOsCP94m75Y3s6j2j3ia/orkjgaj01OwdFlIUp4tLf4BzFutnCDEo
+lFnz5B8wna73j0JHz+1+tAMUgP3yAEPklEGOHEAPGFBSjgQ8m7RcuIjPZI1jdhpW
+TW64lAmlBphgEDmXaQSPnwRTfF4pDLTrq/LTkOPTkM87hrWfEcKg6w==
+=9tml
+-----END PGP SIGNATURE-----

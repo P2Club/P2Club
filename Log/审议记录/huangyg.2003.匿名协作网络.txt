@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+预分配审议意见：
+等级：2
+
+理由：
+1、非公模。等级3。
+2、局部内容，忽略部分不是关键的，降一级。等级4。
+3、现实用10~40%的利益共同体适用，或大部分利益共同体
+的局部工作适用，升一级。等级3。
+4、预期后果因果关系明确，升一级。等级2。
+5、关于企业类税负、管理成本的数据是符合作者实践的
+。由于方法学不要求提供案例，未写入稿件。不升不降。
+
+-----BEGIN PGP SIGNATURE-----
+Version: Encryption Desktop 10.3.0 (Build 9307) - not licensed for commercial use: www.pgp.com
+Charset: utf-8
+
+wsBVAwUBU9nwMvb4AsDNppvZAQgYVggArDmWB5j9sVS0uFa/aQ9sx1aVmgiPtax2
+z+rKzUD0HbSG5UTo8D3DFhO132aPiPPSmAKEB+Y1SzJvXQ3/Xl4XGdJgu7GPIGZS
+stPJPbQVZ9mRRVPipjnQri7hyZud3clZiGsHxPNxDhPEI+3kJhkg8h9CLql32NKT
+nuHMrAn/NUOy9jYooaT/m5Y9L/6CohPeXEbSKjAypnsdYj9Sm08csMP/+T+C1w/b
+p9FN0wN6TqfDNLIkarI6BFK0IaTKHhandiRV3TRFvRWjz+n3I5QOwGs5PSbkAjGA
+G3j0jjYIjT2mpu+Zzw4OrAzMppbvrrf5eNbZlCk8vfXG1azz3qFObw==
+=9OcW
+-----END PGP SIGNATURE-----

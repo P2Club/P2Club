@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+因约定修订，本月20日的预分配延期至27日。
+截止至30日晚未见其他预分配参与提交审议记录。
+
+1、
+某个特定或现实中10%以内数量的P2类利益共同体的完整COM
+模型，非公共模型。 ==》等级3
+2、适用于现实中10~40%的利益共同体的提高1级。 ==》等级2
+审议意见：等级2
+
+
+本资料对以下对象
+        - 一个自然人
+        - 一个组织
+        - 一个产品
+的任何属性的判断，均可按信任度传播。应该可以适用于
+绝大多数利益共同体。
+即，几乎任何企业都可以根据本部署方案增加到它原有架
+构之上。
+因为是提交者自己预分配，保守起见，按照10~40%计算。
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP Desktop 10.2.0 (Build 2599) - not licensed for commercial use: www.pgp.com
+Charset: utf-8
+
+wsBVAwUBVHsSivb4AsDNppvZAQgijwf/cQ81eJnvHsFnHPWmWcbYF0E+F+YzGV4b
+5Z5fJG8W/559SeA9qmx87Eznq7LqH64R64VuV9YdMx8i7mm+vgROVyMYsQQ8YEEa
+s0oQrWNOQ1NNZRD0G8HDSfkeYalkJvPXa6DEMaXYgJG1Y6YX3EVJHaT9cTZd0v4H
+dFr5+LTiVNUBENnHCR+hHiRD9H0fOdT5khMvmswr5DwZk5sCa6pPxt/wh0Q2E9HF
+zL1agIpSv0J9LcQ7+ta8WRukQsJwU6Tn44Y+oYEnNwuQF37puyROPrvFGMao37Iq
+A6dri+ksQmwLCIA+90tR02pYSreasNXVM0Z8NAg7U5tacrEz3P79Iw==
+=fnEG
+-----END PGP SIGNATURE----- 

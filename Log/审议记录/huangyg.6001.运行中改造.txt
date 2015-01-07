@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+审议标准：
+1、不适用，从低。==》4级。
+2、不适用，从低。==》5级。
+3、实际改造的是少数。==》5级
+4、效果暂时不明确。==》5级
+5、没有提供案例。==》5级
+
+最终结果：5级。
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP Desktop 10.2.0 (Build 2599) - not licensed for commercial use: www.pgp.com
+Charset: utf-8
+
+wsBVAwUBVK1/9vb4AsDNppvZAQhEXQgArMmiCk0Cts3fKipOwL9WWqQF/A3f36jr
+rnRMJnBbfIHs9lnmyefYve6ewZK9IJkQ6nlob2GAP2sLwK+cCnSddZQFxEVUhtOB
+x9/PI+S3pFhcVqBjeayolreUg6JKYoKvlI2HPkmXz/CpUDrZ4sJ8CNJekhFLkRjv
+Akj6ZhAew4NyFjXAogS/ZpUdiQn/yXgnxrwyyFR4cZOLlKfqxL4qVhHkQ8FrxM6M
+SR553EGUp+2VnYpTdh8iMhXVoo8lR55apB/JefZuVdZHn6SP3kWGyfd+fwgobeHp
+tY0HN682jMDVt4JN3j9ns8sReruu5FQJB15n2AAy1el5+5VchnePvg==
+=sBqz
+-----END PGP SIGNATURE-----
