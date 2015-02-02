@@ -3,6 +3,8 @@ Hash: SHA256
 
 审议意见：
 2级
+因1月延迟到7日完成预分配，2月顺延几日。
+本资料已于2014年12月末在群内公示，只修改格式提交。
 
 1.
 某个特定的P2类利益共同体的完整COD部署方案，使用公共
@@ -16,11 +18,11 @@ Hash: SHA256
 Version: PGP Desktop 10.2.0 (Build 2599) - not licensed for commercial use: www.pgp.com
 Charset: utf-8
 
-wsBVAwUBVM+ntfb4AsDNppvZAQiq6QgAjqtRl3a1J74htLNsMWeF7R3PyDENouUR
-B6n3dXWImwSSX6zq7jawb5pn+fufnRwnzuEujH3kriyCXj9AR2JiqPqy+7Djbahz
-qvY+EGsv/jAt8F/Qs3ScOh/m/+zAapd0FspQjcWG2heM0BoVf5SCZrFzBpKIS3jq
-ZCA9azi2w57GR2xiXLtJB98kiZY3nu6Yg2skCZNT1Q54rdufXPw0hb/fx21aHUHr
-WMn60DqCeNnxdyEDkxNsl06r+bID9lH9bMNHBa5KdcEsqYnHa9epzMR5UnOkNZM7
-s9+uHfrIoqdCrqUY529GhRGJvPZfE0NSNKLL8xaGNkbFAGx9ZLwteg==
-=SAV8
+wsBVAwUBVM+tFvb4AsDNppvZAQgGGgf/YsnjZAphpE4If02lFSR7dQu+aXRAFJqU
+6H79R3Mmxwv+xgbrrAoZrq9rwLakHEvD9dgy275WVT5+IZXPY+IyFguHPgZdGxYH
+K2h2l4+srHHshRhQOSHiANwGoImMBgp6QVLkR7S23kyFp7FcTL5NnUVOSr3/v6Xk
+EPbDSjrCTbBxk6gskHLqD8ny+ktrOTADJdhzQv3KVF6H6oCTXzjhbQtprFjFrIs3
+jvyTpD9aqz/mqrAZl1yY55VpwByMdoQnA0UEUnteTlW2A5oa9WBoUEsd1ty76rCn
+UiSDKbw50BQTG5Q+7u4iZAGYCNUCIoL7MOg1D4V2PUYEY1mKiTgM1g==
+=S8GX
 -----END PGP SIGNATURE-----
