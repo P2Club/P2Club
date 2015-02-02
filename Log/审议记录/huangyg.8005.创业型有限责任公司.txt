@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+审议意见：
+2级
+
+1.
+某个特定的P2类利益共同体的完整COD部署方案，使用公共
+模型增加了资产、角色、任务种类，以及协作过程、分配
+规则。按公模算==》4
+3.
+对一定范围或一定特征的利益共同体均适用，适用于现实
+中40%以上利益共同体的提高2级。==》2
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP Desktop 10.2.0 (Build 2599) - not licensed for commercial use: www.pgp.com
+Charset: utf-8
+
+wsBVAwUBVM+ntfb4AsDNppvZAQiq6QgAjqtRl3a1J74htLNsMWeF7R3PyDENouUR
+B6n3dXWImwSSX6zq7jawb5pn+fufnRwnzuEujH3kriyCXj9AR2JiqPqy+7Djbahz
+qvY+EGsv/jAt8F/Qs3ScOh/m/+zAapd0FspQjcWG2heM0BoVf5SCZrFzBpKIS3jq
+ZCA9azi2w57GR2xiXLtJB98kiZY3nu6Yg2skCZNT1Q54rdufXPw0hb/fx21aHUHr
+WMn60DqCeNnxdyEDkxNsl06r+bID9lH9bMNHBa5KdcEsqYnHa9epzMR5UnOkNZM7
+s9+uHfrIoqdCrqUY529GhRGJvPZfE0NSNKLL8xaGNkbFAGx9ZLwteg==
+=SAV8
+-----END PGP SIGNATURE-----
