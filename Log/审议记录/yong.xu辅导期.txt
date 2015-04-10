@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+
+根据P2俱乐部《章程》五、协作过程第1款4.2的规定，提交
+针对会员yong.xu的辅导期（2014.10.1~2015.3.31）提交《审议记
+录》：
+
+##辅导过程：
+1.
+2014年10、11月，2015年3月均不能按照《章程》二、角色清
+单第1款要求完成贡献值。
+2.
+2014年10、11月，2015年3月均不能按照《章程》五、协作过
+程第2款3.1提交会员见解。根据《章程》五、协作过程第1
+款4.1.3规定应再次清零贡献值，中止会员资格。
+3.
+偶尔参与每旬在线交流，但内容不符合《章程》五、协作
+过程第2款1.2的规定。
+
+##审议意见：
+1.
+该会员已停止利益共同体规则设计和部署的实践，没有产
+出独创的模型和方案。
+2. 辅导期内不能履行章程规定的会员义务。
+3. 建议永久劝退。
+ 
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP Desktop 10.2.0 (Build 2599) - not licensed for commercial use: www.pgp.com
+Charset: utf-8
+
+wsBVAwUBVScn6fb4AsDNppvZAQhygwgApAZTYX7kn4DWofp8Y5kqVLHy5Mz7e7Kd
+nm4z6zUSj3eIYfRel6Mq6rrSL6MNi74wfXRBY6dMqzVCcwiJWkpUuw7acgaZzzTa
+xTtHfgy4bTsZNSVo52ruCZbcBVq692PSkb38wm9PuL2wwZu6KmXsczHs6oU4oISv
+cbdok2bzH8YE1bBtbpPJTC1zbWI5tphSmZsJ9eK5nhpSmNB1WNtuJhSKqH9jY73O
+1ujP3HSOQ2DMTGJPcfT4qiF7teHQxOzUB7qYp81zzkzgjVVroaojCUR0kFN5Hea5
+BYeKt2yTm1VbanFD50zY0Qg2Y3s0jB0OgtqrISRrbN2SfTU5QKeWqw==
+=4YJY
+-----END PGP SIGNATURE-----
